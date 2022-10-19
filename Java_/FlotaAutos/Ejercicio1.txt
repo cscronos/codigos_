@@ -1,0 +1,33 @@
+Ejercicios 1:
+Se desea desarrollar un sistema informático para empresas que gestionan 
+flotas de vehículos.Cada flota tiene un nombre, un arrendatario y un conjunto de vehículos. 
+
+La cantidad máximade vehículos con la que puede operar cada empresa es definida cuandoesta se crea. 
+
+De cadavehículo se conoce 
+    su patente 
+    año de fabricación 
+    marca y modelo
+
+La tarifa base para elarriendo diario de un vehículo se calcula teniendo en 
+cuenta la antigüedad de un vehículo, porlo que se parte con 10.000 pesos 
+diarios para vehículos nuevos y se descuentan 500 pesos porcada año de antigüedad. 
+    
+Las empresas manejan tres tipos de vehículos: 
+    colectivos 
+    micros  
+    camiones 
+
+Para los colectivos, la tarifa se calcula teniendo en cuenta la tarifa base más 3000pesos 
+por cada asiento. 
+
+Para las micros, la tarifa se calcula teniendo en cuenta la tarifa basemás 250 pesos 
+por cada asiento más 200 pesos por cada pasajero que pueda ir de píe.
+
+Para amiones la tarifa se calcula teniendo en cuenta la tarifa base más 5000 pesos 
+por cadatonelada que pueda transportar. 
+
+Cada empresa deberá tener la capacidad de respondercuánto costaría arrendar todos sus 
+vehículos durante una cantidad de días determinados. 
+
+Diseñe e Implemente las clases necesarias para resolver este problema.
