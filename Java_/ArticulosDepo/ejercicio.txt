@@ -1,0 +1,31 @@
+Ejercicios 2:
+Una empresa de venta de artículos deportivos necesita un sistema 
+informático para gestionar sus artículos. 
+
+De cada artículo se conoce su código, su precio y su descripción. 
+
+Además, algunos artículos son compuestos, ya que pueden contener otros artículos. 
+
+Un artículo puede ser o no ser eléctrico, también puede o no ser 
+acuático e incluso pudiera ser las dos a la vez.
+Todos los artículos que sean acuáticos tendrán que brindar 
+información de hasta quéprofundidad podrán ser utilizados. 
+
+Todos los artículos que sean eléctricos tendrán que 
+brindar información del voltaje que utilizan, y en el caso 
+de los que utilicen baterías tendrán que contener la información 
+de la capacidad de esta. 
+
+Las ventas se realizan a partir de un carro de compra del 
+que los clientes pueden adicionar o quitar productos. 
+
+El carro de la compra deberá tener funcionalidades que le 
+permita obtener el costo de los productos que contiene, obtener una 
+lista de los productos acuáticos y obtener una lista de los productos eléctricos. 
+
+El carro de la compra deberá implementar además la interfaz 
+IEstadistico, esta interfaz permite a susmiembros conocer los 
+valores mínimo, máximo y promedio. Diseñe e Implemente las clases 
+e interfaces necesarias para resolver este problema. 
+
+Cree un fragmento de código (main) quepermita verificar el funcionamiento de las clases y las interfaces creadas
