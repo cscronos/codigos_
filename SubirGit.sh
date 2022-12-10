@@ -3,5 +3,5 @@
 git init
 
 git add .
-git commit -m "Termino ejercicio 1"
+git commit -m "progra 2"
 git push
